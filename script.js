@@ -4,7 +4,7 @@
 window.addEventListener("load", function() {
     const form = document.getElementById("launchForm");
     const faultyItems = document.getElementById('faultyItems');
-    list.style.visibility = "hidden";
+    
 
     
     form.addEventListener("submit", function(event) {
